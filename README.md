@@ -4,6 +4,13 @@
 I wanna see how well it performs and if I can make any improvements once my work schedule is reduced : )
 I like these open source AI training efficiency gain projects and desperately want to see what I can do with them with my measly hardware lol. Pardon my bad markdown skills. I promise I'll practice soon.
 </h2>
+
+<h2>
+   Updates/Changes: 
+   <h4>
+      December 3, 2022 (none yet)
+   </h4>
+   <h2/>
 <h2>
    Credit to the blog post 
 </h2>
