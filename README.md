@@ -1,4 +1,4 @@
-# !!Not the official Collosal-AI project!!
+# !!Not the official Collosal-AI project, just a fork!!
 <h2>
    I want to tinker around with this open-source project, seems cool and I wanna try it
 I wanna see how well it performs and if I can make any improvements once my work schedule is reduced : )
