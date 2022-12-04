@@ -1,8 +1,15 @@
 # !!Not the official Collosal-AI project!!
-#I want to tinker around with this open-source project, seems cool and I wanna try it
-#I wanna see how well it performs and if I can make any improvements once my work schedule is reduced : )
-#I like these open source AI training efficiency gain projects and desperately want to see what I can do with them with my measly hardware lol
-#Credit to the blog post "HPC-AI Tech Train 18-billion-parameter GPT models with a single GPU on your personal computer! Open source project Colossal-AI has added new features！"
+<h2>
+   I want to tinker around with this open-source project, seems cool and I wanna try it
+I wanna see how well it performs and if I can make any improvements once my work schedule is reduced : )
+I like these open source AI training efficiency gain projects and desperately want to see what I can do with them with my measly hardware lol
+</h2>
+<h2>
+   Credit to the blog post 
+</h2>
+   <h3>
+   "HPC-AI Tech Train 18-billion-parameter GPT models with a single GPU on your personal computer! Open source project Colossal-AI has added new features"
+</h3>
 
 # Colossal-AI
 <div id="top" align="center">
