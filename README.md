@@ -1,3 +1,7 @@
+# !!Not the official Collosal-AI project!!
+#I want to tinker around with this open-source project, seems cool and I wanna try it
+#I wanna see how well it performs and if I can make any improvements once my work schedule is reduced : )
+
 # Colossal-AI
 <div id="top" align="center">
 
